@@ -74,5 +74,5 @@ p. 125
 
 p. 217-18
 > Our forefathers had conceived a strange opinion on the subject of marriage; as they had noticed that the small number of love matches which occurred in their time almost always turned out badly, they resolutely inferred that it was dangerous to listen to the dictates of the heart on the subject. Accident appeared to them a better guide than choice. 
-
+> 
 > Yet it was not difficult to perceive that the examples that they witnessed in fact proved nothing at all. For, in the first place, if democratic nations leave a woman at liberty to choose her husband, they take care to give her mind sufficient knowledge and her will sufficient strength to make so important a choice, whereas the young women who among aristocratic nations furtively elope from the authority of their parents to throw themselves of their own accord into the arms of men whom they have had neither time to know nor ability to judge of are totally without those securities. 
