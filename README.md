@@ -55,24 +55,24 @@ p. 468
 > His final summation of his religious thinking came...in response to questions from the Rev. Ezra Stiles, president of Yale. Franklin began by restating his basic creed: "I believe in one God, Creator of the Universe. That he governs it by his Providence. That he ought to be worshipped. That the most acceptable service we render to him is doing good to his other children." These beliefs were fundamental to all religions; anything else was mere embellishment.
 
 p. 491
-Compromisers may not make great heroes, but they do make great democracies.
+> Compromisers may not make great heroes, but they do make great democracies.
 
 ## _Democracy in America_ 
 Alexis de Tocqueville
 
 p. 61
-Liberty regards religion as its companion in all its battles and its triumphs, as the cradle of its infancy and the divine source of its claims. It considers religion as the safeguard of morality, and morality as the best security of law and the surest pledge of the duration of freedom. 
+> Liberty regards religion as its companion in all its battles and its triumphs, as the cradle of its infancy and the divine source of its claims. It considers religion as the safeguard of morality, and morality as the best security of law and the surest pledge of the duration of freedom. 
 
 p. 103
-Laws are always unstable unless they are founded upon the customs of a nation: customs are the only durable and resisting power in a people. 
+> Laws are always unstable unless they are founded upon the customs of a nation: customs are the only durable and resisting power in a people. 
 
 p. 124
-The greatest advantage of religion is to inspire diametrically contrary principles. There is no religion that does not place the object of man's desires above and beyond the treasures of earth and that does not naturally raise his soul to regions far above those of the senses. Nor is there any which does not impose on man some duties towards his kind and thus draw him at times from contemplation of himself. This is found in the most false and dangerous religions. 
+> The greatest advantage of religion is to inspire diametrically contrary principles. There is no religion that does not place the object of man's desires above and beyond the treasures of earth and that does not naturally raise his soul to regions far above those of the senses. Nor is there any which does not impose on man some duties towards his kind and thus draw him at times from contemplation of himself. This is found in the most false and dangerous religions. 
 
 p. 125
-Mohammed professed to derive from Heaven, and has inserted in the Koran, not only religious doctrines, but political maxims, civil and criminal laws, and theories of science. The Gospel, on the contrary, speaks only of the general relations of men to God and to each other, beyond which it inculcates and imposes no point of faith. This alone, besides a thousand other reasons, would suffice to prove that the former of these religions will never long predominate in a cultivated and democratic age, while the latter is destined to retain its sway at these as at all other periods. 
+> Mohammed professed to derive from Heaven, and has inserted in the Koran, not only religious doctrines, but political maxims, civil and criminal laws, and theories of science. The Gospel, on the contrary, speaks only of the general relations of men to God and to each other, beyond which it inculcates and imposes no point of faith. This alone, besides a thousand other reasons, would suffice to prove that the former of these religions will never long predominate in a cultivated and democratic age, while the latter is destined to retain its sway at these as at all other periods. 
 
 p. 217-18
-Our forefathers had conceived a strange opinion on the subject of marriage; as they had noticed that the small number of love matches which occurred in their time almost always turned out badly, they resolutely inferred that it was dangerous to listen to the dictates of the heart on the subject. Accident appeared to them a better guide than choice. 
+> Our forefathers had conceived a strange opinion on the subject of marriage; as they had noticed that the small number of love matches which occurred in their time almost always turned out badly, they resolutely inferred that it was dangerous to listen to the dictates of the heart on the subject. Accident appeared to them a better guide than choice. 
 
-Yet it was not difficult to perceive that the examples that they witnessed in fact proved nothing at all. For, in the first place, if democratic nations leave a woman at liberty to choose her husband, they take care to give her mind sufficient knowledge and her will sufficient strength to make so important a choice, whereas the young women who among aristocratic nations furtively elope from the authority of their parents to throw themselves of their own accord into the arms of men whom they have had neither time to know nor ability to judge of are totally without those securities. 
+> Yet it was not difficult to perceive that the examples that they witnessed in fact proved nothing at all. For, in the first place, if democratic nations leave a woman at liberty to choose her husband, they take care to give her mind sufficient knowledge and her will sufficient strength to make so important a choice, whereas the young women who among aristocratic nations furtively elope from the authority of their parents to throw themselves of their own accord into the arms of men whom they have had neither time to know nor ability to judge of are totally without those securities. 
