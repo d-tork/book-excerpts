@@ -1,3 +1,11 @@
+## _The Strategy of Conflict_
+Thomas C. Schelling
+
+#### Chapter 5: Enforcement, Communication, and Strategic Moves
+p. 148
+> It is interesting to observe that political democracy itself depends on a game structure in which the communication of evidence is impossible. What is the secret ballot but a device to rob the voter of his power to sell his vote? It is not alone the secrecy, but the _mandatory_ secrecy, that robs him of his power. He not only _may_ vote in secret, but he _must_ if the system is to work. He must be denied any means of proving which way he voted. And what he is robbed of is not just an asset that he might sell; he is stripped of his power to be intimidated. He is made impotent to meet the demands of blackmail. There may be no limit to violence that he can be threatened with if he is truly free to bargain away his vote, since the threatened violence is not carried out anyway if it is frightening enough to persuade him. But when the voter is powerless to prove that he complied with the threat, both he and those who would threaten him know that any punishment would be unrelated to the way he actually voted. And the threat, being useless, goes idle. 
+
+
 ## _Benjamin Franklin_ 
 Walter Isaacson
 
