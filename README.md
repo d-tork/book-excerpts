@@ -1,3 +1,18 @@
+## _Modern Political Warfare: Current Practices and Possible Responses_
+Robinson, Helmus, Cohen, Nader, Radin
+
+p. 103
+> In a public lecture, Lukyanov described Putin as "not a strategic thinker"—rather, Putin is "prepared for any development" and ready for "immediate reaction." Similarly, Sergei Pugachev, a former aide, noted "Putin is not someone who sets strategic plans; he lives today." Monitoring and tracing Russia's effort to feed crises may therefore be critical for U.S. and NATO efforts to counter Russian political warfare.
+
+## _The Black Swan: The Impact of the Highly Improbable_
+Nassim Nicholas Taleb
+
+p. 58
+> Popper introduced the mechanism of conjectures and refutations, which works as follows: you formulate a (bold) conjecture and you start looking for the observation that would prove you wrong. This is the alternative to our search for confirmatory instances. If you think the task is easy, you will be disappointed—few humans have a natural ability to do this.
+
+p. 180
+> For Hayek, a true forecast is done organically by a system, not by fiat. One single institution, say, the central planner, cannot _aggregate_ knowledge; many important pieces of information will be missing. But society as a whole will be able to integrate into its functioning these multiple pieces of information. Society as a whole thinks outside the box. Hayek attacked socialism and managed economies as a product of what I have called _nerd knowledge_, or _Platonicity_—owing to the growth of scientific knowledge, we overestimate our ability to understand the subtle changes that constitute the world, and what weight needs to be imported to each such change.
+
 ## _The Strategy of Conflict_
 Thomas C. Schelling
 
