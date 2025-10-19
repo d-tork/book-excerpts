@@ -1,3 +1,11 @@
+## _Diary of The Sinai Campaign_
+Major-General Moshe Dayan
+
+p. 171
+> We...sat down to review the main problems. The most urgent and important concerns the 180,000 Arab refugees – 95,000 – are housed in eight camps scattered along the length of the \[Gaza\] Strip. The remainder live among the local population. Up to now, it has not been Egypt but the United Nations Relief and Works Agency (UNRWA) which has assumed responsibility for the refugees—for their food, health, and education. We must try and arrange for UNRWA to continue caring and being responsible for them. It has the necessary staff—a personnel of some 3,000, foreigners and local employees—and large warehouses with supplies which will last until the arrival of the next food shipments. 
+> Of course this raises many questions: the status of the UNRWA staff (who include local Arabs, Lebanese and others); the route by which they are to receive their future supplies (up to now they have come through Egypt); what currency will be used; and a host of other problems for which we shall have to find answers. In the menatime, however, the important thing is for the daily care of the refugees to continue as usual. This is a humane problem – 180,000 persons on relife; an economic problem – Israel cannot assume the burden of maintaining them; and a front rank political problem. So far, UNRWA has not notified us that it intends to abandon its mission, and its work proceeds in orderly fashion. Only on the first day of the capture were there disturbances when the refugees tried to break open and raid the food and clothing stores of UNRWA, but the damage was not too heavy. 
+
+
 ## _Modern Political Warfare: Current Practices and Possible Responses_
 Robinson, Helmus, Cohen, Nader, Radin
 
